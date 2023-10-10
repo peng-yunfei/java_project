@@ -18,6 +18,7 @@ public class Lab1
          * Array x = { array x values here separated by coma }
          * Array y = { array y values here separated by coma }
          * Array z = x + y = { array z values here separated by coma }
+         *
          */
         int[] x = {0,1,2,3,4};
         int[] y = {2,6,-1,0,4};
