@@ -2,6 +2,7 @@ package edu.neu.mgen;
 import java.util.ArrayList;
 /**
  * @author Yunfei Peng
+ * 002772958
  * INFO5100 Lab1
  */
 
